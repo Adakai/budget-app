@@ -1,3 +1,3 @@
 # budget-app
-##Gitpages URL
+## Gitpages URL
 https://adakai.github.io/budget-app/
